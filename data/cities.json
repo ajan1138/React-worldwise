@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "22c1",
+      "cityName": "Europe/Jersey",
+      "country": "Jersey",
+      "emoji": "🇯🇪",
+      "date": "2024-06-05T12:49:00.326Z",
+      "notes": "",
+      "position": {
+        "lat": "49.18170338770663",
+        "lng": "-2.1313476562500004"
+      }
+    },
+    {
+      "id": "39de",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-06-05T12:49:07.293Z",
+      "notes": "",
+      "position": {
+        "lat": "53.25206880589414",
+        "lng": "-6.130371093750001"
+      }
+    },
+    {
+      "id": "65ed",
+      "cityName": "Ouillon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-06T06:28:09.468Z",
+      "notes": "Vrh",
+      "position": {
+        "lat": "43.32517767999296",
+        "lng": "-0.21972656250000003"
+      }
+    },
+    {
+      "id": "5a3c",
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2024-06-06T06:28:25.337Z",
+      "notes": "\n",
+      "position": {
+        "lat": "43.723474896114794",
+        "lng": "7.421264648437501"
+      }
+    }
+  ]
+}
